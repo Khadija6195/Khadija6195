@@ -1,7 +1,7 @@
 Hi! My name is Khadija Rizwan😇
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Peshawar, Pakistan.
+🌍  I am a Front-End Developer based in Gujranwala, Pakistan.
 <br/>
 
 ### Skills
